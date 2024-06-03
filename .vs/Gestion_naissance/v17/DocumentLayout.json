@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|c:\\users\\manu\\documents\\visual studio 2015\\projects\\gestion_naissance\\gestion_naissance\\mariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|solutionrelative:gestion_naissance\\mariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|c:\\users\\manu\\documents\\visual studio 2015\\projects\\gestion_naissance\\gestion_naissance\\mariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|solutionrelative:gestion_naissance\\mariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Gestion_naissance||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|c:\\users\\manu\\documents\\visual studio 2015\\projects\\gestion_naissance\\gestion_naissance\\addmariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|solutionrelative:gestion_naissance\\addmariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|c:\\users\\manu\\documents\\visual studio 2015\\projects\\gestion_naissance\\gestion_naissance\\addmariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|solutionrelative:gestion_naissance\\addmariage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\gestion_naissance\\connexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|solutionrelative:gestion_naissance\\connexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|c:\\users\\manu\\documents\\visual studio 2015\\projects\\gestion_naissance\\gestion_naissance\\connexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|solutionrelative:gestion_naissance\\connexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\gestion_naissance\\gestdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|solutionrelative:gestion_naissance\\gestdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898F7F61-ECD8-42F9-AB6A-309E1294CA6B}|Gestion_naissance\\Gestion_naissance.vbproj|c:\\users\\manu\\documents\\visual studio 2015\\projects\\gestion_naissance\\gestion_naissance\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "addMariage.vb",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\addMariage.vb",
+              "RelativeDocumentMoniker": "Gestion_naissance\\addMariage.vb",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\addMariage.vb",
+              "RelativeToolTip": "Gestion_naissance\\addMariage.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T12:52:44.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mariage.vb",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\mariage.vb",
+              "RelativeDocumentMoniker": "Gestion_naissance\\mariage.vb",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\mariage.vb",
+              "RelativeToolTip": "Gestion_naissance\\mariage.vb",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAnwGAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T13:15:45.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "addMariage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\addMariage.vb",
+              "RelativeDocumentMoniker": "Gestion_naissance\\addMariage.vb",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\addMariage.vb [Design]",
+              "RelativeToolTip": "Gestion_naissance\\addMariage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T11:44:58.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mariage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\mariage.vb",
+              "RelativeDocumentMoniker": "Gestion_naissance\\mariage.vb",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\mariage.vb [Design]",
+              "RelativeToolTip": "Gestion_naissance\\mariage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T11:43:07.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\GestDataSet.xsd",
+              "RelativeDocumentMoniker": "Gestion_naissance\\GestDataSet.xsd",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\GestDataSet.xsd",
+              "RelativeToolTip": "Gestion_naissance\\GestDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-27T10:31:36.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connexion.vb",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\Connexion.vb",
+              "RelativeDocumentMoniker": "Gestion_naissance\\Connexion.vb",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\Connexion.vb",
+              "RelativeToolTip": "Gestion_naissance\\Connexion.vb",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wCkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-21T14:20:03.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gestion_naissance",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\Gestion_naissance.vbproj",
+              "RelativeDocumentMoniker": "Gestion_naissance\\Gestion_naissance.vbproj",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\Gestion_naissance.vbproj",
+              "RelativeToolTip": "Gestion_naissance\\Gestion_naissance.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-21T14:29:02.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connexion.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\Connexion.vb",
+              "RelativeDocumentMoniker": "Gestion_naissance\\Connexion.vb",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\Gestion_naissance\\Gestion_naissance\\Connexion.vb [Design]",
+              "RelativeToolTip": "Gestion_naissance\\Connexion.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-21T14:15:19.589Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

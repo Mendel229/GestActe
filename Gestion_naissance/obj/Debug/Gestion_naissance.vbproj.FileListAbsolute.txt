@@ -1,0 +1,38 @@
+c:\users\sephora didavi\documents\visual studio 2015\Projects\Gestion_naissance\Gestion_naissance\bin\Debug\Gestion_naissance.exe.config
+c:\users\sephora didavi\documents\visual studio 2015\Projects\Gestion_naissance\Gestion_naissance\bin\Debug\Gestion_naissance.exe
+c:\users\sephora didavi\documents\visual studio 2015\Projects\Gestion_naissance\Gestion_naissance\bin\Debug\Gestion_naissance.pdb
+c:\users\sephora didavi\documents\visual studio 2015\Projects\Gestion_naissance\Gestion_naissance\bin\Debug\Gestion_naissance.xml
+c:\users\sephora didavi\documents\visual studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.vbprojResolveAssemblyReference.cache
+c:\users\sephora didavi\documents\visual studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.Resources.resources
+c:\users\sephora didavi\documents\visual studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.vbproj.GenerateResource.Cache
+c:\users\sephora didavi\documents\visual studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.exe
+c:\users\sephora didavi\documents\visual studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.xml
+c:\users\sephora didavi\documents\visual studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.pdb
+C:\Users\Sephora DIDAVI\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.Connexion.resources
+C:\Users\Sephora DIDAVI\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.naissance.resources
+C:\Users\Sephora DIDAVI\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.mariage.resources
+C:\Users\Sephora DIDAVI\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.terrain.resources
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.vbproj.AssemblyReference.cache
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.Connexion.resources
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.connexion2.resources
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.mariage.resources
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.Resources.resources
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.naissance.resources
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.terrain.resources
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.vbproj.GenerateResource.cache
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.vbproj.CoreCompileInputs.cache
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.exe
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.xml
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.pdb
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.home.resources
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\bin\Debug\Gestion_naissance.exe.config
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\bin\Debug\Gestion_naissance.exe
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\bin\Debug\Gestion_naissance.pdb
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\bin\Debug\Gestion_naissance.xml
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\bin\Debug\Gest.accdb
+C:\Users\Manu\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.addMariage.resources
+C:\Users\Sephora DIDAVI\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\bin\Debug\Gest.accdb
+C:\Users\Sephora DIDAVI\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.addMariage.resources
+C:\Users\Sephora DIDAVI\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.home.resources
+C:\Users\Sephora DIDAVI\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.addNaissance.resources
+C:\Users\Sephora DIDAVI\Documents\Visual Studio 2015\Projects\Gestion_naissance\Gestion_naissance\obj\Debug\Gestion_naissance.addTerrain.resources

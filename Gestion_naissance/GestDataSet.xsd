@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="GestDataSet" targetNamespace="http://tempuri.org/GestDataSet.xsd" xmlns:mstns="http://tempuri.org/GestDataSet.xsd" xmlns="http://tempuri.org/GestDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="GestConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="GestConnectionString (MySettings)" PropertyReference="ApplicationSettings.Gestion_naissance.My.MySettings.GlobalReference.Default.GestConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="birthTableAdapter" GeneratorDataComponentClassName="birthTableAdapter" Name="birth" UserDataComponentName="birthTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GestConnectionString (MySettings)" DbObjectName="birth" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT id, childname, childsurname, birthday, birthplace, hospital, reference, mothername, dadname FROM birth</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="mariageTableAdapter" GeneratorDataComponentClassName="mariageTableAdapter" Name="mariage" UserDataComponentName="mariageTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GestConnectionString (MySettings)" DbObjectName="mariage" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT id, epoux, epouse, datema, commune, officier, ref, tem1, tem2 FROM mariage</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="terrainTableAdapter" GeneratorDataComponentClassName="terrainTableAdapter" Name="terrain" UserDataComponentName="terrainTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GestConnectionString (MySettings)" DbObjectName="terrain" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT id, vendeur, acheteur, datevend, site, superficie, prix, tem1, tem2, ref FROM terrain</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="usersTableAdapter" GeneratorDataComponentClassName="usersTableAdapter" Name="users" UserDataComponentName="usersTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GestConnectionString (MySettings)" DbObjectName="users" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT [No], identifiant, code FROM users</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="GestDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="GestDataSet" msprop:Generator_DataSetName="GestDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="birth" msprop:Generator_RowEvHandlerName="birthRowChangeEventHandler" msprop:Generator_RowDeletedName="birthRowDeleted" msprop:Generator_RowDeletingName="birthRowDeleting" msprop:Generator_RowEvArgName="birthRowChangeEvent" msprop:Generator_TablePropName="birth" msprop:Generator_RowChangedName="birthRowChanged" msprop:Generator_RowChangingName="birthRowChanging" msprop:Generator_TableClassName="birthDataTable" msprop:Generator_RowClassName="birthRow" msprop:Generator_TableVarName="tablebirth" msprop:Generator_UserTableName="birth">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="mariage" msprop:Generator_RowEvHandlerName="mariageRowChangeEventHandler" msprop:Generator_RowDeletedName="mariageRowDeleted" msprop:Generator_RowDeletingName="mariageRowDeleting" msprop:Generator_RowEvArgName="mariageRowChangeEvent" msprop:Generator_TablePropName="mariage" msprop:Generator_RowChangedName="mariageRowChanged" msprop:Generator_RowChangingName="mariageRowChanging" msprop:Generator_TableClassName="mariageDataTable" msprop:Generator_RowClassName="mariageRow" msprop:Generator_TableVarName="tablemariage" msprop:Generator_UserTableName="mariage">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="terrain" msprop:Generator_RowEvHandlerName="terrainRowChangeEventHandler" msprop:Generator_RowDeletedName="terrainRowDeleted" msprop:Generator_RowDeletingName="terrainRowDeleting" msprop:Generator_RowEvArgName="terrainRowChangeEvent" msprop:Generator_TablePropName="terrain" msprop:Generator_RowChangedName="terrainRowChanged" msprop:Generator_RowChangingName="terrainRowChanging" msprop:Generator_TableClassName="terrainDataTable" msprop:Generator_RowClassName="terrainRow" msprop:Generator_TableVarName="tableterrain" msprop:Generator_UserTableName="terrain">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="users" msprop:Generator_RowEvHandlerName="usersRowChangeEventHandler" msprop:Generator_RowDeletedName="usersRowDeleted" msprop:Generator_RowDeletingName="usersRowDeleting" msprop:Generator_RowEvArgName="usersRowChangeEvent" msprop:Generator_TablePropName="users" msprop:Generator_RowChangedName="usersRowChanged" msprop:Generator_RowChangingName="usersRowChanging" msprop:Generator_TableClassName="usersDataTable" msprop:Generator_RowClassName="usersRow" msprop:Generator_TableVarName="tableusers" msprop:Generator_UserTableName="users">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
